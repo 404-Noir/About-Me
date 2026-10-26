@@ -75,7 +75,7 @@ I believe that every project, challenge, and mistake is an opportunity to learn 
 
 I'm open to connecting with other technology enthusiasts, cybersecurity learners, and professionals who value collaboration and continuous improvement.
 
-- 💼 LinkedIn: [Dabon Mikey](https://www.linkedin.com/in/dabon-mikey/)
+- 💼 LinkedIn: [Michael Kamau](https://www.linkedin.com/in/dabon-mikey/)
 - 💻 GitHub: [404-Noir](https://github.com/404-Noir)
 
 ---
